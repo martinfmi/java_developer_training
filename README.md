@@ -40,13 +40,39 @@ Full Java developer training materials and references. Feel free to use for any 
 
 ## 2. Build and deployment
 
+[Build systems](2.%20Build%20and%20deployment/Build%20systems.pdf)
 
 ## 3. Database principles
 
+[RDBMS fundamentals](3.%20Database%20principles/01.%20Fundamentals/1.1%20RDBMS_Fundamentals.pdf)
+
+[MySQL fundamentals](3.%20Database%20principles/01.%20Fundamentals/1.2%20MySQL_db_fundamentals.pdf)
+
+[SQL: basic data retrieval](3.%20Database%20principles/02.%20Basic_SQL_DML/2.2%20sql_basic_data_retrieval.pdf)
+
+[SQL: insert, update, delete](3.%20Database%20principles/02.%20Basic_SQL_DML/2.1.%20sql_data_types_insert_update_delete.pdf)
+
+[SQL: joins and nested queries](3.%20Database%20principles/03.%20Advanced_SQL_DML/sql_joining_data_nested_queries.pdf)
+
+[SQL: aggregations and functions](3.%20Database%20principles/03.%20Advanced_SQL_DML/sql_aggregations_functions.pdf)
+
+[SQL: DDL and views](3.%20Database%20principles/04.%20DDL_transactions/sql_ddl_views.pdf)
+
+[Transactions](3.%20Database%20principles/04.%20DDL_transactions/db_transactions.pdf)
+
+[Users, roles and permissions](3.%20Database%20principles/05.%20RDBMS_management/advanced_sql_users_roles_permissions.pdf)
+
+[Stored procedures in MySQL](3.%20Database%20principles/05.%20RDBMS_management/mysql_stored_routines.pdf)
+
+[RDBMS objects and metadata](3.%20Database%20principles/05.%20RDBMS_management/advanced_sql_db_objects_and_metadata.pdf)
+
+[NoSQL databases](3.%20Database%20principles/06.%20NoSQL%20databases/NoSQL_databases.pdf)
+
 ## 4. Persistence
 
-## 5. Core Java frameworks
 
+
+## 5. Core Java frameworks
 
 ## 6. Messaging systems
 
