@@ -84,7 +84,16 @@ Full Java developer training materials and references. Feel free to use for any 
 
 ## 5. Core Java frameworks
 
+[Spring framework overview](5.%20Core%20Java%20frameworks/1%20Spring%20framework/Spring%20framework%20overview.pdf)
+
+[Spring MVC](5.%20Core%20Java%20frameworks/1%20Spring%20framework/Spring%20MVC.pdf)
+
 ## 6. Messaging systems
+
+[The RabbitMQ Message broker](6.%20Messaging%20systems/1.%20RabbitMQ/The_RabbitMQ_message_broker.pdf)
+
+[Apache Kafka](6.%20Messaging%20systems/2.%20Kafka/Apache%20Kafka.pdf)
 
 ## 7. Bonus topics
 
+[Docker](7.%20Bonus%20topics/1.%20Docker/Docker.pdf)
