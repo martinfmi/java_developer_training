@@ -70,7 +70,17 @@ Full Java developer training materials and references. Feel free to use for any 
 
 ## 4. Persistence
 
+[JDBC](4.%20Persistence/01.%20JDBC/jdbc.pdf)
 
+[ORM fundamentals](4.%20Persistence/02.%20Hibernate/02.1.orm-jpa-hibernate-fundamentals.pdf)
+
+[Hibernate: architecture and features](4.%20Persistence/02.%20Hibernate/02.2.hibernate-features-and-architecture.pdf)
+
+[Hibernate: manipulating persistent objects](4.%20Persistence/02.%20Hibernate/02.3.hibernate-manipulating-persistent-objects.pdf)
+
+[Hibernate: queries and transactions](4.%20Persistence/02.%20Hibernate/10.4.hibernate-queries-and-transactions.pdf)
+
+[Hibernate: advanced concepts and design patterns](4.%20Persistence/02.%20Hibernate/10.5.hibernate-advanced-concepts-and-design-patterns.pdf)
 
 ## 5. Core Java frameworks
 
