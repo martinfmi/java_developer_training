@@ -1,0 +1,30 @@
+
+Wikipedia's article on Java memory model
+https://en.wikipedia.org/wiki/Java_memory_model
+
+Article on Java Memory Model
+http://tutorials.jenkov.com/java-concurrency/java-memory-model.html
+
+Wikipedia's article on Java concurrency
+https://en.wikipedia.org/wiki/Java_concurrency
+
+Official Java tutorial on concurrency
+https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
+
+Java concurrency without the pain article (part 1)
+https://www.javaworld.com/article/2078809/java-concurrency-java-101-the-next-generation-java-concurrency-without-the-pain-part-1.html
+
+Java concurrency without the pain article (part 2)
+https://www.javaworld.com/article/2078848/java-concurrency-java-101-the-next-generation-java-concurrency-without-the-pain-part-2.html
+
+Java Concurrent Animated (new version)
+https://github.com/vgrazi/JavaConcurrentAnimatedReboot
+1) clone or download as zip and unarchive
+2) build with 'mvn clean package'
+3) navigate to target folder and execute with 'java -jar java-concurrent-animated-reboot-0.0.1-SNAPSHOT.jar'
+
+(optional) Java concurrency and multithreading tutorial
+http://tutorials.jenkov.com/java-concurrency/index.html
+
+(optional) Java concurrency in Practice
+https://github.com/sanigo/books/blob/master/%5BJAVA%5D%5BJava%20Concurrency%20In%20Practice%5D.pdf

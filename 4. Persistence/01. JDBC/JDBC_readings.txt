@@ -1,0 +1,14 @@
+Java Database Connectivity
+http://en.wikipedia.org/wiki/Java_Database_Connectivity
+
+JDBC driver
+http://en.wikipedia.org/wiki/JDBC_driver
+
+Trail: JDBC™ Database Access
+http://docs.oracle.com/javase/tutorial/jdbc/
+
+Java JDBC tutorial
+http://tutorials.jenkov.com/jdbc/index.html
+
+Oracle® Database Java Developer’s Guide 11g Release 1 (11.1)
+http://docs.oracle.com/cd/B28359_01/java.111/b31225.pdf

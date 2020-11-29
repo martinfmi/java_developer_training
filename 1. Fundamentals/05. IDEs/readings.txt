@@ -1,0 +1,9 @@
+
+Using the Eclipse IDE for Java programming - Tutorial
+https://www.vogella.com/tutorials/Eclipse/article.html
+
+IntelliJ Getting started video tutorial
+https://www.jetbrains.com/idea/documentation/
+
+Intellij IDEA Tutorial for Eclipse Users
+https://www.jrebel.com/blog/intellij-idea-tutorial

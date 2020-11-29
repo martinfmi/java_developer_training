@@ -1,0 +1,36 @@
+
+TestPyramid
+https://martinfowler.com/bliki/TestPyramid.html
+
+The Practical Test Pyramid
+https://martinfowler.com/articles/practical-test-pyramid.html
+
+Wikipedia's article on unit testing
+https://en.wikipedia.org/wiki/Unit_testing
+
+List of unit testing frameworks in Java
+https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#Java
+
+Wikipedia's article on test driven development
+https://en.wikipedia.org/wiki/Test-driven_development
+
+(covers both JUnit 4 and 5) Unit testing with JUnit tutorial
+https://www.vogella.com/tutorials/JUnit/article.html
+
+JUnit 5 user guide (section 2: writing tests)
+https://junit.org/junit5/docs/current/user-guide/#writing-tests
+
+TestNG documentation
+https://testng.org/doc/documentation-main.html
+
+Wikipedia's article on mock objects
+https://en.wikipedia.org/wiki/Mock_object
+
+Wikipedia's article on Mockito
+https://en.wikipedia.org/wiki/Mockito
+
+Unit tests with Mockito: tutorial
+https://www.vogella.com/tutorials/Mockito/article.html
+
+Testing with EasyMock: tutorial
+https://www.vogella.com/tutorials/EasyMock/article.html

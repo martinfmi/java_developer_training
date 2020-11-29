@@ -1,0 +1,30 @@
+Official Oracle Java Generics tutorial (updated version)
+https://docs.oracle.com/javase/tutorial/java/generics/index.html
+
+Wikipedia's article on Java generics
+https://en.wikipedia.org/wiki/Generics_in_Java
+
+Generics tutorial (Stanford)
+https://web.stanford.edu/class/archive/cs/cs108/cs108.1082/handouts/08JavaGenerics.pdf
+
+(optionals) Generics in gory details
+http://www.angelikalanger.com/GenericsFAQ/FAQSections/TechnicalDetails.html#FAQ609
+
+The State of the Module System
+https://openjdk.java.net/projects/jigsaw/spec/sotms/
+
+A guide to Java 9 module system
+https://www.baeldung.com/java-9-modularity
+
+Java modules tutorial
+http://tutorials.jenkov.com/java/modules.html
+
+Understanding Java 9 modules
+https://www.oracle.com/corporate/features/understanding-java-9-modules.html
+
+(optional)
+JDK 9 migration guide
+https://docs.oracle.com/javase/9/migrate/toc.htm#JSMIG-GUID-7744EF96-5899-4FB2-B34E-86D49B2E89B6
+
+Sun Certified Programmer for Java 6 book
+chapters 7 and 8

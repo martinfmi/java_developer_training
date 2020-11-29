@@ -1,0 +1,60 @@
+
+Java® Platform, Standard Edition & Java Development Kit Version 13 API Specification
+https://docs.oracle.com/en/java/javase/13/docs/api/index.html
+
+Java Core Libraries
+https://docs.oracle.com/javase/10/core/java-core-libraries1.htm#JSCOR-GUID-C6BE8117-F73E-4BE6-98AA-681A0CD4EEA9
+
+Sun Certified Programmer for Java 6 book
+chapter 6
+
+Java tutorial: lambda expressions
+https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
+
+Java 8 streams tutorial
+https://www.baeldung.com/java-8-streams
+
+Java logging framework
+https://en.wikipedia.org/wiki/Java_logging_framework
+
+Java Logging Overview
+https://docs.oracle.com/javase/10/core/java-logging-overview.htm#JSCOR-GUID-48004124-2C00-49F7-A640-0C0DDA271DBC
+
+Introduction to Java Logging
+https://www.baeldung.com/java-logging-intro
+
+Logging in Java
+https://www.vogella.com/tutorials/Logging/article.html
+
+20 Useful Libraries Java Programmers Should Know
+https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme
+
+(additional information)
+Books and lambdas and stream in Java
+
+Java IO Overview: tutorial
+http://tutorials.jenkov.com/java-io/overview.html
+
+Java basic IO
+https://docs.oracle.com/javase/tutorial/essential/io/
+
+Java NIO tutorial
+http://tutorials.jenkov.com/java-nio/index.html
+
+Wikipedia: Java NIO
+https://en.wikipedia.org/wiki/Non-blocking_I/O_(Java)
+
+Tutorial: Read and write user input in Java
+https://www.baeldung.com/java-console-input-output
+
+Object cloning in Java
+https://www.javatpoint.com/object-cloning
+
+Shallow vs Deep Copy in Java
+https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim
+
+Wikipedia article on serialization
+https://en.wikipedia.org/wiki/Serialization
+
+An introduction to Java serialization
+https://www.baeldung.com/java-serialization

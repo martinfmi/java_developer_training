@@ -1,0 +1,12 @@
+
+What is Spring Framework: Dependency Injection in Java
+https://www.marcobehler.com/guides/spring-framework
+
+What is Spring Boot? Autoconfigurations In-Depth
+https://www.marcobehler.com/guides/spring-boot
+
+Spring Core reference (chapter 1: The IoC Container)
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#spring-core
+
+Spring Boot reference (chapter 3: using Spring Boot)
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using-boot

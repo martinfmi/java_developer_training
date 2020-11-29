@@ -1,0 +1,19 @@
+The following readings might be covered in a two-week timeframe:
+
+Java tutorial: getting started
+https://docs.oracle.com/javase/tutorial/getStarted/index.html
+
+Java tutorial: learning the Java language
+https://docs.oracle.com/javase/tutorial/java/index.html
+
+Java tutorial: exceptions
+https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html
+
+Numbers and Strings
+https://docs.oracle.com/javase/tutorial/java/data/index.html
+
+Java tutorial: annotations
+https://docs.oracle.com/javase/tutorial/java/annotations/
+
+Sun Certified Programmer for Java 6 book
+chapters 1,2,3,4,5,10

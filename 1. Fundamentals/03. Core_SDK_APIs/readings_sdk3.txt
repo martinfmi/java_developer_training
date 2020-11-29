@@ -1,0 +1,25 @@
+
+A Guide to XML in Java
+https://www.baeldung.com/java-xml
+
+JAXP
+https://docs.oracle.com/javase/tutorial/jaxp/index.html
+
+JAXB tutorial
+https://docs.oracle.com/javase/tutorial/jaxb/index.html
+
+Date and time API
+https://docs.oracle.com/javase/tutorial/datetime/
+
+Internationalization tutorial
+https://docs.oracle.com/javase/tutorial/i18n/index.html
+
+Java internationalization tutorial
+http://tutorials.jenkov.com/java-internationalization/index.html
+
+Security features of Java SE
+https://docs.oracle.com/javase/tutorial/security/index.html
+
+(optional)
+Java Platform Security Architecture
+http://ftp.icm.edu.pl/pub/java/javasoft-docs/j2se1.3/security-spec.pdf

@@ -1,0 +1,59 @@
+
+JVM internals articles
+https://blog.jamesdbloom.com/JVMInternals.html
+
+Understanding JVM internals
+https://www.cubrid.org/blog/understanding-jvm-internals/
+
+HotSpot JVM presentation (FOSDEM 2007)
+http://openjdk.java.net/groups/hotspot/docs/FOSDEM-2007-HotSpot.pdf
+
+Wikipedia's article on JVM
+https://en.wikipedia.org/wiki/Java_virtual_machine
+
+Wikipedia's article on HotSpot JVM
+https://en.wikipedia.org/wiki/HotSpot
+
+JVM architecture in a Nutshell
+https://dev.to/hrishi2710/jvm-architecture-in-a-nutshell-2jj1
+
+Java Virtual Machine and its architecture
+https://www.guru99.com/java-virtual-machine-jvm.html
+
+Structure of the Java virtual machine (from JavaSE 7 JVM spec)
+https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-2.html
+
+Hotspot documentation (keep for reference only) 
+http://openjdk.java.net/groups/hotspot/
+
+JVM 7 and 13 specs (keep for reference only) 
+http://docs.oracle.com/javase/specs/jvms/se7/jvms7.pdf
+https://docs.oracle.com/javase/specs/jvms/se14/jvms14.pdf
+
+Wikipedia's GraalVM article
+https://en.wikipedia.org/wiki/GraalVM
+
+GraalVM - an introduction into the next level Java Virtual Machine (JVM)
+https://rieckpil.de/whatis-graalvm/
+
+Deep Dive Into the New Java JIT compiler
+https://www.baeldung.com/graal-java-jit-compiler
+
+Wikipedia's article on Garbage-first collector
+https://en.wikipedia.org/wiki/Garbage-first_collector
+
+Java Garbage Collection Basics
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
+
+JVM Garbage Collectors
+https://www.baeldung.com/jvm-garbage-collectors
+
+Types of Garbage Collectors
+https://javapapers.com/java/types-of-java-garbage-collectors/
+
+Epsilon: The JDK’s Do-Nothing Garbage Collector
+https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector
+
+Getting started with the G1 garbage collector
+https://www.oracle.com/technetwork/tutorials/tutorials-1876574.html
+

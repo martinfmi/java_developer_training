@@ -1,0 +1,25 @@
+
+Wikipedia's article on the Java Collections framework
+https://en.wikipedia.org/wiki/Java_collections_framework
+
+Java tutorials: collections
+https://docs.oracle.com/javase/tutorial/collections/index.html
+
+Sun Certified Programmer for Java 6 book
+chapters 7 (collections)
+
+Apache Commons Collections short guide:
+http://commons.apache.org/proper/commons-collections/userguide.html
+
+Apache Common Collections CollectionUtils
+https://www.baeldung.com/apache-commons-collection-utils
+
+Eclipse collections tutorial
+https://www.baeldung.com/eclipse-collections
+
+Eclipse collections reference guide
+https://github.com/eclipse/eclipse-collections/blob/master/docs/guide.md#eclipse-collections-reference-guide
+
+Guava wiki
+(Collections section)
+https://github.com/google/guava/wiki

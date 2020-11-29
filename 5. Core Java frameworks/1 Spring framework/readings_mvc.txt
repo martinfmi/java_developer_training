@@ -1,0 +1,14 @@
+Building REST services with Spring
+https://spring.io/guides/tutorials/bookmarks/
+
+Green Beans: Getting Started with Spring MVC
+https://spring.io/blog/2011/01/04/green-beans-getting-started-with-spring-mvc/
+
+What is Spring MVC: @Controllers & @RestControllers
+https://www.marcobehler.com/guides/spring-mvc
+
+(reference) Spring MVC documentation
+https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc
+
+(optional) Spring on the web section
+https://www.baeldung.com/spring-tutorial

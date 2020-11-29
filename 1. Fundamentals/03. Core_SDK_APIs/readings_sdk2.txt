@@ -1,0 +1,18 @@
+
+Trail: Java reflection
+https://docs.oracle.com/javase/tutorial/reflect/index.html
+
+Java reflection tutorial
+http://tutorials.jenkov.com/java-reflection/index.html
+
+Guide to Java reflection
+https://www.baeldung.com/java-reflection
+
+Using Java reflection
+https://www.oracle.com/technical-resources/articles/java/javareflection.html
+
+Regular expressions in Java
+https://docs.oracle.com/javase/tutorial/essential/regex/
+
+Regular expressions practice
+https://regexone.com/lesson/letters_and_digits

@@ -1,0 +1,16 @@
+
+Computational complexity theory
+https://en.wikipedia.org/wiki/Computational_complexity_theory
+
+Time complexity
+https://en.wikipedia.org/wiki/Time_complexity
+
+Space complexity
+https://en.wikipedia.org/wiki/Space_complexity
+
+Amortized complexity
+https://en.wikipedia.org/wiki/Amortized_analysis
+
+Problems with solutions in the analysis of algorithms
+(chapters 1, 2, 3 theory only, without going through all the problems and math solutions)
+file:///D:/projects/java_academy/modules/1.%20Fundamentals/02.%20OOP_data_structures_complexity/complexity_manual.pdfv

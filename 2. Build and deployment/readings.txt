@@ -1,0 +1,33 @@
+
+Wikipedia's article on Apache Ant
+https://en.wikipedia.org/wiki/Apache_Ant
+
+Ant tutorial
+http://tutorials.jenkov.com/ant/ant-tutorial.html
+
+Ant tutorial (Vogella)
+https://www.vogella.com/tutorials/ApacheAnt/article.html
+
+Wikipedia's article on Apache Maven
+https://en.wikipedia.org/wiki/Apache_Maven
+
+Maven tutorial
+http://tutorials.jenkov.com/maven/maven-tutorial.html
+
+Apache Maven tutorial (Baeldung)
+https://www.baeldung.com/maven
+
+Wikipedia's article on Gradle
+https://en.wikipedia.org/wiki/Gradle
+
+Gradle tutorial
+http://tutorials.jenkov.com/gradle/dependency-management.html
+
+Ant vs Maven vs Gradle
+https://www.baeldung.com/ant-maven-gradle
+
+(optional) Gradle tutorial (Vogella)
+https://www.vogella.com/tutorials/Gradle/article.html
+
+(optional) Getting started with Java build tools
+https://www.jrebel.com/blog/getting-started-with-java-build-tools

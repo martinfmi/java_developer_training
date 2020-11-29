@@ -1,0 +1,19 @@
+
+Testing the Web Layer (Spring tutorial)
+https://spring.io/guides/gs/testing-web/
+
+Spring testing framework
+https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/testing.html
+
+Spring boot testing
+https://www.baeldung.com/spring-boot-testing
+
+Rest assured framework (including documentation)
+http://rest-assured.io/
+
+Wikipedia article on Selenium
+https://en.wikipedia.org/wiki/Selenium_(software)
+
+Selenium documentation
+https://www.selenium.dev/documentation/en/
+
